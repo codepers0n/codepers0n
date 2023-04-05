@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/84794219/157275056-1fe12dda-4b1e-4354-affa-2ea46041d72f.gif">
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BCC1C3&title_bg=%2376D5E6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodepers0n%2Fhit-counter&count_bg=%23BCC1C3&title_bg=%2376D5E6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :octocat: Hi! I'm codeperson 
 
